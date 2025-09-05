@@ -1,6 +1,6 @@
 # 코드 계산 로직 검증 [수치 보고서] (t-검정 · 카이제곱 · 항등검사)
 
-> 본 문서는, `Calculation_Logic_for_Stock_Analysis`의 로직 검증 수치 보고서입니다.
+> 본 문서는, `Calculation_Logic_for_Stock_Analysis`의 결과 검증 수치 보고서입니다.
 
 - 시뮬레이션 : GBM-like, $\mu_0=0.0005$, $\sigma_0=0.015$, 기간≈120영업일, seeds=500..509
 - 자산 : 005930, 000660, 035420 / 벤치마크: KOSPI
