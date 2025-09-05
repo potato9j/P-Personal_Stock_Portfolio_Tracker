@@ -1,0 +1,11 @@
+run,sector_weights
+1,"{'Semiconductor': 0.807617, 'Internet': 0.192383}"
+2,"{'Semiconductor': 0.755473, 'Internet': 0.244527}"
+3,"{'Semiconductor': 0.744925, 'Internet': 0.255075}"
+4,"{'Semiconductor': 0.792308, 'Internet': 0.207693}"
+5,"{'Semiconductor': 0.76833, 'Internet': 0.231671}"
+6,"{'Semiconductor': 0.826902, 'Internet': 0.173098}"
+7,"{'Semiconductor': 0.801324, 'Internet': 0.198676}"
+8,"{'Semiconductor': 0.812974, 'Internet': 0.187026}"
+9,"{'Semiconductor': 0.72333, 'Internet': 0.27667}"
+10,"{'Semiconductor': 0.752705, 'Internet': 0.247294}"
